@@ -4,7 +4,7 @@ tag_format = "$version"
 version_scheme = "semver"
 version = "0.1.1"
 version_files = [
-    "setup.py"
+    "setup.py:version"
 ]
 update_changelog_on_bump = true
 major_version_zero = true
