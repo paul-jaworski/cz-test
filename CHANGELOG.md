@@ -1,3 +1,9 @@
+## 0.1.2 (2023-08-19)
+
+### Fix
+
+- **pyproject.toml**: specify where to change the version in setup py
+
 ## 0.1.1 (2023-08-19)
 
 ### Fix
