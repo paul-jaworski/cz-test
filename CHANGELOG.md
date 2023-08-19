@@ -1,3 +1,9 @@
+## 0.1.3 (2023-08-19)
+
+### Fix
+
+- **setup.py**: manually bump version
+
 ## 0.1.2 (2023-08-19)
 
 ### Fix

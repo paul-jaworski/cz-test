@@ -3,7 +3,7 @@ import setuptools
  
 setuptools.setup(
     name="cztest",
-    version= "0.1.2",
+    version= "0.1.3",
     author="Paul Jaworski",
     author_email="ronlesteve@ronlesteve.com",
     description="Package to create commitzien",
