@@ -1,3 +1,9 @@
+## 0.1.1 (2023-08-19)
+
+### Fix
+
+- **pyproject.toml**: move version_files to the top of the config
+
 ## 0.1.0 (2023-08-19)
 
 ### Feat
